@@ -5,6 +5,14 @@ import java.util.Scanner;
 public class Currency_Counter {
 
 	public static void main(String[] args) {
+		/*
+		Problem Statement:
+		Assume there is unlimited cash in bank as well as in the accounts of its customers.
+		Now if a customer asks cashier some amount, cashier should give that amount in most effective way.
+		e.g. Customer asks for Rs.2631
+		So cashier should pay = 2000+500+100+20+10+1 respectively.
+		Write down a Java Program for above problem statement.
+		*/
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter amount you want to withdraw:");

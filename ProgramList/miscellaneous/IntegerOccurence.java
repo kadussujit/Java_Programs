@@ -4,6 +4,7 @@ public class IntegerOccurence {
 	
 	public static void main(String[]args)
 	{
+		//Write down a Java program to find frequency of occurence of integers from an array.
 		
 		int [] arr = new int[] {0,5,3,0,1,8,6,1,4};
 		
