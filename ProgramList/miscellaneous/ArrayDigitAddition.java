@@ -3,6 +3,8 @@ package miscellaneous;
 public class ArrayDigitAddition {
 	
 	public static void main(String[] args) {
+
+		//Write down a Java program to find elements from an array whose sum is 7
 		
 		int [] arr = new int[]{12,16,25,56,61,66};
 		
